@@ -37,29 +37,35 @@ body{
     color: #FFF;
    
 }
-button{
+button.log-in{
     border: 2px solid #FFF;
-    border-radius: 15%;
-    padding-top: 0.5%;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
     padding-left: 1;
     color: #0A2640;
     background-color: #FFF;
     cursor: pointer;
 }
 
-p{
-    color: #FFF;
-}
 .body-content{
     display: flex;
     align-items: center;
     height: 130vh;
     margin-left: 5%;
     margin-right: 5%;
+    width: 100%;
 }
 
 .left-wordings{
+    width: 60%;
    
+}
+.stat-chart{
+   width: 30%;
 }
 
 .time-saving{
@@ -68,6 +74,7 @@ p{
     font-weight: 400;
     line-height: 72px;
     width: 580px;
+    color: #FFF;
 }
 
 .funding{
@@ -77,6 +84,7 @@ p{
     font-weight: 400;
     line-height: 28px;
     align-self: stretch;
+    width: 1200px;
 }
 button.buy{
     font-family: 'Open Sans', sans-serif;
@@ -87,6 +95,7 @@ button.buy{
     margin-top: 5%;
     font-size: 20px;
     font-weight: 700;
+    color: black;
     
 }
 button.explore{
@@ -115,4 +124,8 @@ footer{
     font-weight: 600;
     font-size: 45px;
     margin-left: 0.5%;
+}
+.frame-chart1{
+    margin-bottom: 10%;
+    width: 90%;
 }
