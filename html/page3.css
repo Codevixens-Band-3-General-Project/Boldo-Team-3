@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 5%;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+.end-section{
+    word-spacing: 1em;
+    background: transparent;
+}
+.end-section, button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height: 28px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF;
+}
+.end-section a{
+    text-decoration: none;
+    color: #FFF;
+}
+button.log-in{
+    border: 2px solid #FFF;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-left: 1;
+    color: #0A2640;
+    background-color: #FFF;
+    cursor: pointer;
+}
+.about{
+color: var(--light-grey, #F1F1F1);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+.great-things{
+color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 131.25%;
+}
+.funding-handshake{
+color: var(--light-grey, #F1F1F1);
+text-align: center;
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 175%;
+}
+.bg-color1{
+background: #0A2640;
+width: 1400px;
+height: 615px;
+flex-shrink: 0;
+}
+.bg-color2{
+width: 1400px;
+height: 5563px;
+background: #FFF;
+}
+.main-header{
+display: flex;
+width: 888px;
+height: 183px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 12px;
+flex-shrink: 0;
+color: #F1F1F1;
+}
+.bg-color2{
+width: 1400px;
+height: 5563px;
+}
+.collage{
+    display: grid;
+    grid-template-columns:1fr 1fr 2fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+}
+img{
+    background-size: cover;
+    background-position: center;
+}
+.image1{
+    grid-column: 1;
+    grid-row: 1 / span 2;
+}
+.image2{
+    grid-column: 1;
+    grid-row: 2;
+}
+.image3{
+    grid-column: 2 / span 2;
+    grid-row: 1 / span 2;
+}
+.image4{
+    grid-column: 4;
+    grid-row: 1;
+}
+.image5{
+    grid-column: 4;
+    grid-row: 2;
+}
