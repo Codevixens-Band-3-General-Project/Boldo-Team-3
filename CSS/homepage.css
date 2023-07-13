@@ -22,14 +22,11 @@ body{
 }
 .end-section, button{
     font-family: 'Open Sans', sans-serif;
-    
-    
     font-weight: 600;
     line-height: 28px;
     font-size: 16px;
     text-decoration: none;
     color: #FFF;
-   
       
 }
 .end-section a{
@@ -61,8 +58,7 @@ button.log-in{
 }
 
 .left-wordings{
-    width: 60%;
-   
+    width: 60%; 
 }
 .stat-chart{
    width: 30%;
