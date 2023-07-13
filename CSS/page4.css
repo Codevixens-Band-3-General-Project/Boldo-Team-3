@@ -1,0 +1,958 @@
+.about-v-2,
+.about-v-2 * {
+  box-sizing: border-box;
+}
+.about-v-2 {
+  background: #ffffff;
+  width: 1400px;
+  height: 5188px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1267 {
+  background: var(--green, #65e4a3);
+  width: 1400px;
+  height: 473px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-285 {
+  width: 1200px;
+  height: 42px;
+  position: absolute;
+  left: 100px;
+  top: 56px;
+}
+.logo {
+  width: 162.22px;
+  height: 42px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.boldo {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 43.25px/33.64px "Manrope", sans-serif;
+  position: absolute;
+  left: 37.18px;
+  top: 0px;
+  width: 125.04px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo-shape {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1265 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 25.91px;
+  height: 17.68px;
+  position: absolute;
+  left: 0px;
+  top: 21px;
+}
+.rectangle-1266 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 18.02px;
+  height: 13.26px;
+  position: absolute;
+  left: 0px;
+  top: 5.53px;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 772.65px;
+  top: 1px;
+}
+.product {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.services {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-4 {
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--dark-blue, #0a2640);
+  border-width: 2px;
+  padding: 8px 40px 8px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.start-now {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 16px/24px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-intro {
+  position: absolute;
+  inset: 0;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 600px;
+  height: 183px;
+  position: absolute;
+  left: 100px;
+  top: 194px;
+}
+.our-blog {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.value-proposition-accelerator-product-management-venture {
+  color: #000000;
+  text-align: left;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.funding-handshake-buyer-business-to-business-metrics-i-pad-partnership-first-mover-advantage-innovator-success-deployment-non-disclosure {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: var(--paragraphs-text-xs, 400 16px/28px "Open Sans", sans-serif);
+  position: absolute;
+  left: 800px;
+  top: 244px;
+  width: 455px;
+  height: 64px;
+}
+.our-numbers {
+  position: absolute;
+  inset: 0;
+}
+.heading2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  width: 842px;
+  height: 184px;
+  position: absolute;
+  left: 280px;
+  top: 569px;
+}
+.value-proposition-accelerator-product-management-venture2 {
+  color: var(--dark-blue, #0a2640);
+  text-align: center;
+  font: 400 48px/72px "Manrope", sans-serif;
+  position: relative;
+  width: 842px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stats {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 1000px;
+  position: absolute;
+  left: 201px;
+  top: 837px;
+}
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._120-m {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 400 96px/56px "Manrope", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cool-feature-title {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: var(--paragraphs-text-m, 400 24px/36px "Open Sans", sans-serif);
+  position: relative;
+}
+._10-000 {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 400 96px/56px "Manrope", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._240 {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 400 96px/56px "Manrope", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-team {
+  position: absolute;
+  inset: 0;
+}
+.our-team-intro {
+  width: 800px;
+  height: 251px;
+  position: static;
+}
+.heading3 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 800px;
+  height: 121px;
+  position: absolute;
+  left: 300px;
+  top: 1829px;
+}
+.our-blog2 {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.value-proposition-accelerator-product-management-venture3 {
+  color: #000000;
+  text-align: left;
+  font: 400 48px/72px "Manrope", sans-serif;
+  position: relative;
+  width: 842px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.conversion-angel-investor-entrepreneur-first-mover-advantage-handshake-infographic-mass-market-crowdfunding-iteration-traction-stock-user-experience-deployment-beta-innovator-incubator-focus {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 301px;
+  top: 1970px;
+  width: 799px;
+  height: 110px;
+}
+.team-member {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 250px;
+  top: 2136px;
+}
+.rectangle-1275 {
+  border-radius: 24px;
+  flex-shrink: 0;
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+.frame-292 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.michael-scott {
+  color: #000000;
+  text-align: left;
+  font: var(--headings-text-l, 400 28px/48px "Manrope", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.general-manager {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: relative;
+}
+.team-member2 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 575px;
+  top: 2136px;
+}
+.team-member3 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 900px;
+  top: 2136px;
+}
+.team-member4 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 400px;
+  position: absolute;
+  left: 250px;
+  top: 2612px;
+}
+.rectangle-12752 {
+  border-radius: 24px;
+  flex-shrink: 0;
+  width: 120px;
+  height: 120px;
+  position: relative;
+}
+.dwight-schrute {
+  color: #000000;
+  text-align: left;
+  font: var(--headings-text-l, 400 28px/48px "Manrope", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team-member5 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 400px;
+  height: 120px;
+  position: absolute;
+  left: 251px;
+  top: 2778px;
+}
+.pam-beetsley {
+  color: #000000;
+  text-align: left;
+  font: var(--headings-text-l, 400 28px/48px "Manrope", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team-member6 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 400px;
+  height: 120px;
+  position: absolute;
+  left: 751px;
+  top: 2778px;
+}
+.team-member7 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 400px;
+  height: 120px;
+  position: absolute;
+  left: 751px;
+  top: 2612px;
+}
+.our-blog3 {
+  position: absolute;
+  inset: 0;
+}
+.background-blue {
+  background: #0a2640;
+  width: 1400px;
+  height: 1093px;
+  position: absolute;
+  left: 1px;
+  top: 3022px;
+}
+.heading4 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  width: 842px;
+  height: 184px;
+  position: absolute;
+  left: 280px;
+  top: 3142px;
+}
+.our-blog4 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.value-proposition-accelerator-product-management-venture4 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 48px/72px "Manrope", sans-serif;
+  position: relative;
+  width: 842px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.divider {
+  background: #ffffff;
+  width: 1099px;
+  height: 1px;
+  position: absolute;
+  left: 151px;
+  top: 3391px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.value-3 {
+  width: 1100px;
+  height: 129px;
+  position: static;
+}
+.bootstrapping-rockstar-first-mover-advantage-business-model-canvas-alpha-deployment-launch-party-beta-facebook-metrics-gamification-growth-hacking-customer-focus {
+  color: var(--light-grey, #f1f1f1);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 742px;
+  top: 3866px;
+  width: 509px;
+  height: 129px;
+}
+.we-aim-for-progress {
+  text-align: left;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+  position: absolute;
+  left: calc(50% - 549px);
+  top: 3866px;
+  width: 500px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-aim-for-progress-span {
+  color: #ffffff;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.we-aim-for-progress-span2 {
+  color: #69e6a6;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.value-2 {
+  width: 1100px;
+  height: 129px;
+  position: static;
+}
+.mass-market-i-phone-buzz-conversion-analytics-stock-iteration-responsive-web-design-user-experience-business-plan-handshake-return-on-investment-seed-round-mvp-backing-supply-chain {
+  color: var(--light-grey, #f1f1f1);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 742px;
+  top: 3657px;
+  width: 509px;
+  height: 129px;
+}
+.we-are-responsible {
+  text-align: left;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+  position: absolute;
+  left: calc(50% - 549px);
+  top: 3657px;
+  width: 500px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-are-responsible-span {
+  color: #ffffff;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.we-are-responsible-span2 {
+  color: #69e6a6;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.value-1 {
+  width: 1100px;
+  height: 102px;
+  position: static;
+}
+.conversion-angel-investor-entrepreneur-first-mover-advantage-handshake-infographic-mass-market-crowdfunding-iteration {
+  color: var(--light-grey, #f1f1f1);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 742px;
+  top: 3475px;
+  width: 509px;
+  height: 102px;
+}
+.we-are-commited {
+  text-align: left;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+  position: absolute;
+  left: calc(50% - 549px);
+  top: 3475px;
+  width: 418px;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-are-commited-span {
+  color: #ffffff;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.we-are-commited-span2 {
+  color: #69e6a6;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+}
+.footer-cta {
+  width: 1400px;
+  height: 949px;
+  position: absolute;
+  left: 0px;
+  top: 4239px;
+  overflow: hidden;
+}
+.call-to-action {
+  width: 1200px;
+  height: 391px;
+  position: absolute;
+  left: 100px;
+  top: 0px;
+}
+.rectangle-1290 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 12px;
+  width: 1200px;
+  height: 391px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1291 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 12px;
+  width: 1200px;
+  height: 391px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-9 {
+  background: #1c3d5b;
+  border-radius: 0 0 0 120%;
+  width: 600px;
+  height: 200px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.group-274 {
+  position: absolute;
+  inset: 0;
+}
+.group-277 {
+  width: 716px;
+  height: 247px;
+  position: static;
+}
+.group-278 {
+  width: 716px;
+  height: 247px;
+  position: static;
+}
+.an-enterprise-template-to-ramp-up-your-company-website {
+  color: #ffffff;
+  text-align: center;
+  font: var(--headings-text-xxl, 400 48px/72px "Manrope", sans-serif);
+  position: absolute;
+  left: 242px;
+  top: 72px;
+  width: 716px;
+  height: 139px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-276 {
+  width: 604px;
+  height: 60px;
+  position: static;
+}
+.group-275 {
+  width: 370px;
+  height: 56px;
+  position: static;
+}
+.rectangle-12912 {
+  background: #ffffff;
+  border-radius: 240px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 370px;
+  height: 56px;
+  position: absolute;
+  left: 298px;
+  top: 261px;
+}
+.your-email-address {
+  color: #000000;
+  text-align: center;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 330px;
+  top: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttons {
+  background: var(--green, #65e4a3);
+  border-radius: 56px;
+  border-style: solid;
+  border-color: var(--green, #65e4a3);
+  border-width: 2px;
+  padding: 16px 56px 16px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 692px;
+  top: 259px;
+}
+.start-now2 {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 20px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer {
+  width: 1400px;
+  height: 474px;
+  position: absolute;
+  left: 0px;
+  top: 475px;
+}
+.rectangle-1272 {
+  background: var(--white, #ffffff);
+  width: 1400px;
+  height: 474px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo2 {
+  width: 156px;
+  height: 41px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+.boldo2 {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 43.25px/33.64px "Manrope", sans-serif;
+  position: absolute;
+  left: 35.75px;
+  top: 0px;
+  width: 120.25px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-12652 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 24.92px;
+  height: 17.26px;
+  position: absolute;
+  left: 0px;
+  top: 20.5px;
+}
+.rectangle-12662 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 17.33px;
+  height: 12.95px;
+  position: absolute;
+  left: 0px;
+  top: 5.39px;
+}
+.social-media-validation-business-model-canvas-graphical-user-interface-launch-party-creative-facebook-i-pad-twitter {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-xs, 400 16px/28px "Open Sans", sans-serif);
+  position: absolute;
+  left: 100px;
+  top: 181px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all-rights-reserved {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-xs, 400 16px/28px "Open Sans", sans-serif);
+  position: absolute;
+  left: 100px;
+  top: 329px;
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-271 {
+  position: absolute;
+  inset: 0;
+}
+.group-272 {
+  width: 642px;
+  height: 240px;
+  position: static;
+}
+.home-products-services {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 579px;
+  top: 168px;
+  width: 150px;
+  height: 172px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.landings {
+  color: #000000;
+  text-align: left;
+  font: 700 20px/32px "Open Sans", sans-serif;
+  position: absolute;
+  left: 579px;
+  top: 100px;
+  width: 150px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.home-careers-services {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 825px;
+  top: 168px;
+  width: 150px;
+  height: 172px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.company {
+  color: #000000;
+  text-align: left;
+  font: 700 20px/32px "Open Sans", sans-serif;
+  position: absolute;
+  left: 825px;
+  top: 100px;
+  width: 150px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.blog-products-services {
+  color: var(--gray, #777777);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 1071px;
+  top: 168px;
+  width: 150px;
+  height: 172px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.resources {
+  color: #000000;
+  text-align: left;
+  font: 700 20px/32px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1071px;
+  top: 100px;
+  width: 150px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-281 {
+  background: var(--green, #65e4a3);
+  border-radius: 120px;
+  padding: 1px 14px 1px 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 911px;
+  top: 241px;
+}
+.hiring {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 13px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-story {
+  position: absolute;
+  inset: 0;
+}
+.background-blue2 {
+  background: #0a2640;
+  width: 1400px;
+  height: 624px;
+  position: absolute;
+  left: 1px;
+  top: 1081px;
+}
+.our-story-text {
+  width: 800px;
+  height: 384px;
+  position: static;
+}
+.heading5 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 800px;
+  height: 184px;
+  position: absolute;
+  left: 301px;
+  top: 1201px;
+}
+.value-proposition-accelerator-product-management-venture5 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 48px/72px "Manrope", sans-serif;
+  position: relative;
+  width: 842px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.conversion-angel-investor-entrepreneur-first-mover-advantage-handshake-infographic-mass-market-crowdfunding-iteration-traction-stock-user-experience-deployment-beta-innovator-incubator-focus-sales-user-experience-branding-growth-hacking-holy-grail-monetization-conversion-prototype-stock-network-effects-learning-curve-network-effects-return-on-investment-bootstrapping-business-to-consumer {
+  color: var(--light-grey, #f1f1f1);
+  text-align: left;
+  font: var(--paragraphs-text-s, 400 20px/32px "Open Sans", sans-serif);
+  position: absolute;
+  left: 302px;
+  top: 1417px;
+  width: 799px;
+  height: 168px;
+}
