@@ -50,3 +50,55 @@ button{
 p{
     color: #FFF;
 }
+.body-content{
+    display: flex;
+    align-items: center;
+    height: 130vh;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.left-wordings{
+   
+}
+
+.time-saving{
+    font-family: 'Manrope', sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    width: 580px;
+}
+
+.funding{
+    font-family: 'Open Sans', sans-serif;
+    color: var(--light-grey, #F1F1F1);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    align-self: stretch;
+}
+button.buy{
+    font-family: 'Open Sans', sans-serif;
+    background: var(--green, #65E4A3);
+    border: 2px solid #69E6A6;
+    border-radius: 56px;
+    padding: 16px 56px;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+button.explore{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px solid #FFF;
+    border-radius: 56px;
+    padding: 16px 56px;
+    margin-top: 5%;
+    line-height: 28px;
+    background: #0A2640;
+    color: #FFF;
+    margin-left: 3%;
+}
