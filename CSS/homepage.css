@@ -102,3 +102,17 @@ button.explore{
     color: #FFF;
     margin-left: 3%;
 }
+
+footer{
+    margin-left: 8%;
+    margin-bottom: 5%;
+    word-spacing: 5em;
+}
+
+.logo-text{
+    font-family: 'Manrope', sans-serif; 
+    color: #FFF;
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 0.5%;
+}
