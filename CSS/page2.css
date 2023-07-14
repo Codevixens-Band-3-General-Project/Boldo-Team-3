@@ -1,0 +1,34 @@
+.HomepageV2 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background: white;
+}
+.Rectangle1272 {
+    width: 1405px;
+    height: 926px;
+    left: -5px;
+    top: 801px;
+    position: absolute;
+    background: #0A2640"
+}
+.Heading {
+    width: 842px;
+    height: 184px;
+    left:279px;
+    top: 885px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    display: inline-flex;
+}
+.OurBlog {
+    color: #f1f1f1;
+    font-size: 20px;
+    font-family: "Open Sans";
+    font-weight: 400;
+    line-height: 32px;
+    word-wrap: break-word;
+}
