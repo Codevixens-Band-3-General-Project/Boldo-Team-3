@@ -75,7 +75,7 @@ flex-shrink: 0;
 .bg-color2{
 width: 1400px;
 height: 5563px;
-background: #FFF;
+background-color: #FFF;
 }
 .main-header{
 display: flex;
@@ -121,4 +121,41 @@ img{
 .image5{
     grid-column: 4;
     grid-row: 2;
+}
+.bg-color3{
+width: 1400px;
+height: 584px;
+flex-shrink: 0;
+background: #0A2640;
+}
+.our-number{
+color: var(--light-grey, #F1F1F1);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.handshake{
+color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height:150%;
+}
+.numbers-wrapper{
+display: flex;
+width: 1000px;
+justify-content: space-between;
+align-items: flex-start;
+}
+.bg-color4{
+width: 1400px;
+height: 5563px;
+background-color: #FFF;
+}
+.image-wrapper{
+display: flex;
 }
