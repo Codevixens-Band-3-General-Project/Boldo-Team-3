@@ -1,0 +1,33 @@
+
+section.second-segment{
+    background-color: white;
+    
+    text-align: center;
+}
+
+div.service{
+    font-family: 'Manrope', sans-serif;
+    justify-content: center;
+   
+}
+
+p.our-service{
+    color: gray;
+    line-height: 5em;
+    font-size: 18px;
+    font-weight: 400;
+}
+.handshake{
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    width: 842px;
+    margin-left: 20%;
+}
+
+.pic-container{
+    margin-left: 10%;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

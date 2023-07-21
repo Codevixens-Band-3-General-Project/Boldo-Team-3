@@ -1,0 +1,23 @@
+section.third-segment{
+    background-color: white;
+    
+}
+section>div.pic-content{
+    display: flex;
+    margin-left: 8em;
+ 
+}
+.p-content{
+    line-height: 3em;
+    margin-left: 5em;
+}
+
+.customer-connect{
+    font-family: 'Manrope', sans-serif;
+}
+
+.check{
+    background-color: rgb(20, 20, 54);
+    border: none;
+    border-radius: 20px;
+}
