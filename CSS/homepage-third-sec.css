@@ -1,23 +1,45 @@
 section.third-segment{
     background-color: white;
-    
+    line-height: 90em;
 }
 section>div.pic-content{
     display: flex;
     margin-left: 8em;
+    
  
 }
 .p-content{
     line-height: 3em;
-    margin-left: 5em;
+    margin-left: 8em;
 }
 
 .customer-connect{
     font-family: 'Manrope', sans-serif;
+    line-height: 56px;
+    margin-top: 60%;
+    width: 493px;
+    font-weight: 400;
+    font-size: 36px;
+}
+.p-checkbox{
+    font-family: 'Open Sans', sans-serif;
+    flex-shrink: 0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 3em;
+    font-style: normal;
 }
 
 .check{
     background-color: rgb(20, 20, 54);
     border: none;
     border-radius: 20px;
+    margin-right: 5%;
+}
+.start-now{
+    background-color: #0A2640;
+    padding: 16px 56px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-top: 8%;
 }
