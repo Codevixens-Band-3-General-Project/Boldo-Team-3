@@ -1,10 +1,11 @@
 section.fourth-segment{
-    background-color: white;
     line-height: 0em;
+    margin-top: 0;
 }
 section>div.content-woman{
     display: flex;
     margin-left: 8em;
+    margin-bottom: 15%;
 
 
 }
@@ -16,7 +17,7 @@ section>div.content-woman{
 
 .customer-connect-woman{
     font-family: 'Manrope', sans-serif;
-    line-height: 60px;
+    line-height: 56px;
     margin-top: 20%;
     margin-bottom: 8%;
     width: 493px;
@@ -28,19 +29,24 @@ section>div.content-woman{
     font-family: 'Open Sans', sans-serif;
     flex-shrink: 0;
     
+    border-radius: 5px;
     font-weight: 600;
-    line-height: 4em;
+    line-height: 4.5em;
     font-style: normal;
     background-color: #0A2640;
 }
 .p-eye, .p-sun{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
+    border: 5px solid ghostwhite;
+    margin-top: 5%;
 }
 
 .feather, .eye, .sun{
     margin-right: 5%;
+    margin-left: 5%;
+    
 }
 .p-feather{
     color: white;

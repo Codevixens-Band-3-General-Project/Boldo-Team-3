@@ -1,14 +1,10 @@
-
 section.second-segment{
-    background-color: white;
-    
     text-align: center;
 }
 
 div.service{
     font-family: 'Manrope', sans-serif;
-    justify-content: center;
-   
+    justify-content: center;  
 }
 
 p.our-service{
@@ -28,6 +24,7 @@ p.our-service{
 .pic-container{
     margin-left: 10%;
     margin-top: 5%;
+    margin-bottom: 15%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }

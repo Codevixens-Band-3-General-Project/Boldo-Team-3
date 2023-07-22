@@ -1,0 +1,30 @@
+section.sixth-segment{
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.sixth-segment-content{
+    display: flex;
+    margin-top: 5%;
+}
+
+.connect-with{
+    font-family: 'Manrope' ;
+    font-size: 36px; 
+    width: 500px;
+    line-height: 56px;
+    
+}
+.connect-android{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 10%; 
+}
+.we{
+    padding-bottom: 5%;
+}
+.android{
+    margin-top: 10%;
+    padding-bottom: 5%;
+   
+}

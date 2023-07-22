@@ -1,0 +1,43 @@
+section.seventh-segment{
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.blog-proposition{
+  text-align: center;
+}
+.our-blog{
+    font-family: 'Open Sans', sans-serif;
+    color: gray;
+    line-height: 5em;
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 10%;
+}
+.value-proposition{
+    font-family: 'Manrope', sans-serif;
+    font-size: 48px;
+    line-height: 72px;
+    width: 950px;
+    padding-left: 8%;
+    margin-bottom: 5%;
+}
+.seventh-segment-pic-container{
+    margin-left: 2%;
+}
+button.load{
+    text-align: center;
+    color: #0A2640;
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid #0A2640;
+    border-radius: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    flex-shrink: 0;
+}
