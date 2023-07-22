@@ -5,13 +5,16 @@
 }
 
 body{
+    background-color: white;
+}
+main{
     background-color: #0A2640;
 }
-
 .header{
     display: flex;
     justify-content: space-between;
     padding: 40px 5%;
+    margin-top: 2%;
     position: fixed;
     width: 100%;
     z-index: 100;
@@ -55,13 +58,14 @@ button.log-in{
     margin-left: 5%;
     margin-right: 5%;
     width: 100%;
+    background-color: #0A2640;
 }
 
 .left-wordings{
-    width: 60%; 
+    width: 55%; 
 }
 .stat-chart{
-   width: 30%;
+   width: 40%;
 }
 
 .time-saving{
@@ -69,7 +73,7 @@ button.log-in{
     font-size: 48px;
     font-weight: 400;
     line-height: 72px;
-    width: 580px;
+    width: 550px;
     color: #FFF;
 }
 
@@ -80,7 +84,7 @@ button.log-in{
     font-weight: 400;
     line-height: 28px;
     align-self: stretch;
-    width: 1200px;
+    width: 550px;
 }
 button.buy{
     font-family: 'Open Sans', sans-serif;
@@ -108,12 +112,15 @@ button.explore{
     margin-left: 3%;
 }
 
-footer{
-    margin-left: 8%;
+.pseudo-footer{
+    margin-left: 0;
     margin-bottom: 5%;
     word-spacing: 5em;
+    background-color: #0A2640;
 }
-
+.first-pseudo-boldo{
+    margin-left: 8%;
+}
 .logo-text{
     font-family: 'Manrope', sans-serif; 
     color: #FFF;
