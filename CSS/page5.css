@@ -1,0 +1,152 @@
+.about-v-2,
+.about-v-2 * {
+  box-sizing: border-box;
+}
+.about-v-2 {
+  background: #ffffff;
+  width: 1400px;
+  height: 5188px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1267 { 
+  width: 1400px;
+  height: 473px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-285 {
+  width: 1200px;
+  height: 42px;
+  position: absolute;
+  left: 100px;
+  top: 56px;
+}
+.logo {
+  width: 162.22px;
+  height: 42px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.boldo {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 43.25px/33.64px "Manrope", sans-serif;
+  position: absolute;
+  left: 37.18px;
+  top: 0px;
+  width: 125.04px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo-shape {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1265 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 25.91px;
+  height: 17.68px;
+  position: absolute;
+  left: 0px;
+  top: 21px;
+}
+.rectangle-1266 {
+  background: var(--dark-blue, #0a2640);
+  border-radius: 0px 12.01px 12.01px 0px;
+  width: 18.02px;
+  height: 13.26px;
+  position: absolute;
+  left: 0px;
+  top: 5.53px;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 772.65px;
+  top: 1px;
+}
+.product {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.services {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 600 16px/28px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-4 {
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--dark-blue, #0a2640);
+  border-width: 2px;
+  padding: 8px 40px 8px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.start-now {
+  color: var(--dark-blue, #0a2640);
+  text-align: left;
+  font: 700 16px/24px "Open Sans", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+section.second-seg-blog{
+ 
+}
+
+.blog-thoughts{
+  text-align: center;
+}
+
+.blog-styles{
+ margin-top: 15%;
+}
+
+.pic-cat-pitch-content{
+  display: flex;
+  margin-left: 8%;
+}
+
+.cat-pitch{
+  margin-left: 25%;
+}
+.eclipse-bing{
+  display: flex;
+  margin-bottom: 30%;
+}
