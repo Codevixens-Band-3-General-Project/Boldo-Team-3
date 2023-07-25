@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 5%;
+    margin-top: 2%;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+.end-section{
+    word-spacing: 1em;
+    background: transparent;
+}
+.end-section, button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height: 28px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF;
+      
+}
+.end-section a{
+    text-decoration: none;
+    color: #FFF;
+   
+}
+button.log-in{
+    border: 2px solid #FFF;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-left: 1;
+    color: #0A2640;
+    background-color: #FFF;
+    cursor: pointer;
+}

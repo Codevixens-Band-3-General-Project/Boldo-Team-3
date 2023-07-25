@@ -112,15 +112,23 @@ button.explore{
     margin-left: 3%;
 }
 
-.pseudo-footer{
-    margin-left: 0;
-    margin-bottom: 5%;
-    word-spacing: 5em;
-    background-color: #0A2640;
+.pseudo-footer-sec{
+    background-color: rgb(136, 135, 135); 
+    padding-bottom: 5%;
+
+ 
 }
-.first-pseudo-boldo{
-    margin-left: 8%;
+.boldo-logo {
+    margin-right: 2.5%;
+    margin-left: 5%;
+
 }
+ .pseudo-footer{
+    margin-left: 5%;
+    justify-content: space-around;
+     
+ }
+
 .logo-text{
     font-family: 'Manrope', sans-serif; 
     color: #FFF;
@@ -131,4 +139,26 @@ button.explore{
 .frame-chart1{
     margin-bottom: 10%;
     width: 90%;
+    background-color: rgb(136, 135, 135);
+    margin-top: 2.5%;
+    border-radius: 20px;
+}
+.frame-chart2{
+    background-color: rgb(136, 135, 135);
+    border: 2px solid rgb(136, 135, 135);
+    border-radius: 20px;
+    padding-top: 8%;
+    padding-right: 2%;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+
+.frame-chart3{
+    background-color: rgb(136, 135, 135);
+    border: 2px solid rgb(136, 135, 135);
+    border-radius: 20px;
+    padding-top: 8%;
+    padding-right: 25%;
+    padding-left: 4%;
+    padding-bottom: 4%;
 }
