@@ -1,1 +1,3 @@
-[# Boldo-Team-3](https://glistening-lebkuchen-4d36ce.netlify.app/)https://glistening-lebkuchen-4d36ce.netlify.app/
+# Boldo-Team-3
+
+### Boldo is a company website.
